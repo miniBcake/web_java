@@ -1,0 +1,11 @@
+package day01;
+
+public class Ex06 {
+	public static void main(String[] args) {
+		//6. 자바 프로그램의 동작 원리에 대해 설명하시오.
+		
+		// 자바 프로그램은 프로그램과 OS 사이에 JVM이 있어,
+		// JVM없이 바로 OS와 소통해 OS에 의존적인 일반 프로그램과 다르게
+		// OS에 의존적이지 않은 독립성과 높은 이식성을 지니고 있다.
+	}
+}
